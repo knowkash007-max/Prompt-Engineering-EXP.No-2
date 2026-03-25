@@ -1,10 +1,10 @@
-EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
+## EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
 
-AIM:
+## AIM:
 
 To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task: text summarization.
 
-SCENARIO:
+## SCENARIO:
 
 You are part of a content curation team for an educational platform that delivers quick summaries of research papers to undergraduate students. Your task is to summarize a 500-word technical article on "The Basics of Blockchain Technology" using multiple AI platforms and prompting strategies.
 
@@ -20,6 +20,6 @@ Your goal is to determine which combination of prompting technique + platform pr
 
 5.User experience
 
-OUTPUT:
+## OUTPUT:
 
-RESULT:The experiment shows that prompt design significantly affects AI output quality. Among the tested combinations, Role-based prompting on ChatGPT produced the most accurate, coherent, and easy-to-understand summaries for undergraduate students.
+## RESULT:The experiment shows that prompt design significantly affects AI output quality. Among the tested combinations, Role-based prompting on ChatGPT produced the most accurate, coherent, and easy-to-understand summaries for undergraduate students.
